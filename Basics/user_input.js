@@ -14,4 +14,5 @@ document.getElementById("mySubmit").onclick = function(){
     document.getElementById("myH1").textContent = `Hello ${username}` //using the template literal {username} to change the text content from Welcome
 }
 
+//The file is meant to be called index.js but for version control I have renamed.
 
